@@ -1,9 +1,30 @@
 import React from 'react'
-import Navbar from './Navbar'
+import Messages from './Messages';
+import SendInput from './SendInput';
+
+
 function ChatBox() {
+
   return (
+
     <div className='chatBox'>
-Chatbox</div>
+
+      <div className="chatInfo">
+        <span>Sweety</span>
+        {/* <div className="chatIcons">
+          <img src={logo}  alt="" />
+          <img src={logo} alt="" />
+          <img src={logo}  alt="" />
+        </div> */}
+      </div>
+
+
+      <Messages></Messages>
+      
+      <SendInput></SendInput>
+
+
+    </div>
   )
 }
 

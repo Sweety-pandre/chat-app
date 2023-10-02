@@ -9,10 +9,7 @@ function ChatList() {
       <Search></Search>
       <Chat></Chat>
       <Chat></Chat>
-      <Chat></Chat>
-      <Chat></Chat>
-      <Chat></Chat>
-      <Chat></Chat>
+    
     </div>
   )
 }

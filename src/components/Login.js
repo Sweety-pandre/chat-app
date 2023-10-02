@@ -7,13 +7,13 @@ function Login() {
         <div className="container">
 
             <div className="left">
-                <div class="leftContainer">
+                <div className="leftContainer">
 
-                    <h2 class="title">
-                        <span class="title-word title-word-1">Ch</span>
-                        <span class="title-word title-word-2">at</span>
-                        <span class="title-word title-word-3">vi</span>
-                        <span class="title-word title-word-4">a</span>
+                    <h2 className="title">
+                        <span className="title-word title-word-1">Ch</span>
+                        <span className="title-word title-word-2">at</span>
+                        <span className="title-word title-word-3">vi</span>
+                        <span className="title-word title-word-4">a</span>
                     </h2>
                     <h4>Connect with people u know.... </h4>
                 </div>
